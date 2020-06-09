@@ -3,7 +3,7 @@ def using_include(array, element)
 end
 
 def using_sort(array)
-
+array.skip_bef
 end
 
 def using_reverse(array)
